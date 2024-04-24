@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433056232356",
+    "project_id": "littlechatapp-83005",
+    "storage_bucket": "littlechatapp-83005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433056232356:android:88b873178e722a0a294731",
+        "android_client_info": {
+          "package_name": "com.example.little_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RFXxEsvmyrf-fsSbJFI_xZ3a7qdxFMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
